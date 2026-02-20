@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Se7en Aero
+Comment=A modern Windows 7-like theme for KDE plasma
+X-KDE-PluginInfo-Author=LinLinXZA
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=archer_of_wisdom@hotmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL-2.0+
+X-KDE-PluginInfo-Name=Se7enAero
+X-KDE-PluginInfo-Version=3.1
+X-KDE-PluginInfo-Website=https://www.pling.com/u/linlinxza
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2143603,kns://plasma-themes.knsrc/api.kde-look.org/1407084,kns://aurorae.knsrc/api.kde-look.org/1406638,kns://icons.knsrc/api.kde-look.org/1407137,kns://wallpaper.knsrc/api.kde-look.org/1406747,kns://wallpaper.knsrc/api.kde-look.org/1406749,kns://sddmtheme.knsrc/api.kde-look.org/2143266

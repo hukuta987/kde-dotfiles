@@ -1,0 +1,30 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "archer_of_wisdom@hotmail.com",
+                "Name": "LinLinXZA"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "A modern Windows 7-like theme for KDE plasma",
+        "EnabledByDefault": true,
+        "Id": "Se7enAero",
+        "License": "GPL-2.0+",
+        "Name": "Se7en Aero",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "3.1",
+        "Website": "https://www.pling.com/u/linlinxza"
+    },
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/1406638",
+    "kns://colorschemes.knsrc/api.kde-look.org/2143603",
+    "kns://plasma-themes.knsrc/api.kde-look.org/1407084",
+    "kns://icons.knsrc/api.kde-look.org/1407137",
+    "kns://wallpaper.knsrc/api.kde-look.org/1406749",
+    "kns://wallpaper.knsrc/api.kde-look.org/1406747"
+    ]
+}

@@ -1,0 +1,10 @@
+[Applications][org.telegram.desktop]
+Seen=true
+
+[Applications][vesktop]
+Seen=true
+
+[DoNotDisturb]
+WhenFullscreen=false
+WhenScreenSharing=false
+WhenScreensMirrored=false
